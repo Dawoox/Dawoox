@@ -1,4 +1,3 @@
-### Hi there 👋
 <p align="center">
   <img src="https://github.com/Dawoox/Dawoox/blob/master/font.gif">
   <br>
