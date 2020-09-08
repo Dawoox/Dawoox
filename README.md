@@ -1,6 +1,3 @@
-<head>
-  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="dawoox" data-color="#BD5FFF" data-emoji="🍕"  data-font="Cookie" data-text="Achetez-moi une pizza" data-outline-color="#000" data-font-color="#fff" data-coffee-color="#fd0" data-font-color="#fff"></script>
-</head>
 <p align="center">
   <img src="https://github.com/Dawoox/Dawoox/blob/master/font.gif">
   <br>
