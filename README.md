@@ -6,7 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dawoox&show_icons=true&theme=dark&?count_private=true&include_all_commits=true">
   <br>
     <a href="https://www.buymeacoffee.com/dawoox">
-  <p align="center"> Vous pouvez m'achetez une pizza ici également </p>
   </a>
   <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
   <br>
