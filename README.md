@@ -3,10 +3,10 @@
   <br>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dawoox&show_icons=true&theme=dark&?count_private=true&include_all_commits=true">
-  <br>
-    <a href="https://www.buymeacoffee.com/dawoox">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dawoox&show_icons=true&theme=material-palenight&?count_private=true&include_all_commits=true">
+  <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawoox&theme=material-palenight">
+  </p>
   <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
   <br>
   <a href="https://github.com/0x307845">
