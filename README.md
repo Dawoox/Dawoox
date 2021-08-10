@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/Dawoox/Dawoox/master/font.gif "Header")](https://antoinecandelon.fr)
 # Hey there
-I'm Dawoox, i'v eat 15 birthday cake so far, i'm working mainly on [Akasuki](https://github.com/Akasuki-bot). I love synthwave, infosec, and Japan in general. Apart from the development, I mainly do audio-visual content for artists (as an amateur).<br>
+I'm Dawoox, i'v eat 16 birthday cake so far, i'm working mainly on [Akasuki](https://github.com/Akasuki-bot). I love synthwave, infosec, and Japan in general. Apart from the development, I mainly do audio-visual content for artists (as an amateur).<br>
 You can find me here on github, on [my website](https://dawoox.github.io/) or on [freeCodeCamp.org](https://www.freecodecamp.org/dawoox) to see my stats.
 # My tools
 ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg)
