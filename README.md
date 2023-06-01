@@ -1,9 +1,10 @@
-[![Header](https://raw.githubusercontent.com/Dawoox/Dawoox/master/font.gif "Header")](https://antoinecandelon.fr)
-# Hey there
+[![Header](https://raw.githubusercontent.com/Dawoox/Dawoox/master/font.gif "Header")]
 I'm Dawoox, i'v eat 17 birthday cake so far. I love synthwave, infosec, and Japan in general.<br>
 # My tools
 ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg)
+![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg)
 ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg)
+![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_rider.svg)
 ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg)
 ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg)
 
