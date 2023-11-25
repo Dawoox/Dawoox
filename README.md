@@ -1,4 +1,9 @@
-![Header](https://raw.githubusercontent.com/Dawoox/Dawoox/master/font.gif "Header")
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dawoox/Dawoox/master/font.gif">
+</div>
+
+---
+
 <br>
 I'm Dawoox, i'v eat 18 birthday cake so far. I love synthwave, infosec, and engineering in general.<br>
 # My tools
