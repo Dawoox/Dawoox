@@ -4,7 +4,6 @@
 
 ---
 
-<br>
 I'm Dawoox, i'v eat 18 birthday cake so far. I love synthwave, infosec, and engineering in general.<br>
 # My tools
 ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg)
