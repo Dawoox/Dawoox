@@ -4,23 +4,41 @@
 
 ---
 
-I'm Dawoox, i'v eat 19 birthday cake so far. I love synthwave, infosec, and engineering in general.<br>
-# My tools
-![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg)
-![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg)
-![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg)
-![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_rider.svg)
-![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg)
-![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg)
+# Hello World, I'm Dawoox!  
 
-## My Github Stats &#x1f4c8;
 
-<a href="https://github.com/Dawoox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dawoox&show_icons=true&theme=material-palenight&?count_private=true&include_all_commits=true">
-</a>
+## About me
+I'v eat 19 birthday cake so far. I love synthwave, infosec, and engineering in general.  
+I'm a CS student at Epitech Bordeaux, responsible for the innovative HUB of my campus.  
+In my free time I love to make hardware projects using my 3D Printers and some embeded controllers.
 
-<br>
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-<p align="center"> 
-  This homepage was entirely inspired by the work of <a href="https://github.com/0x307845">0xE</a> and <a href="https://github.com/TomaruDev">TomaruDev</a>, check out their Github
-</p>
+## My known projects
+
+Honestly, there isn't yet!  
+Most of what I do end up in a private repo hidden deep inside my github account. But if I make a project that I'm proud of I won't forgot to pin it here.  
+That said, you can find some of my old projets right below, those where made before my real CS education started, so don't expect good code.
+
+* [Python script to prevent last-minute bad code submission at Epitech](https://github.com/Dawoox/efc)
+* [My old discord bot](https://github.com/Dawoox/Akasuki)
+* [Result of a 6hours game jam in highschool](https://github.com/Dawoox/LSW)
+* [PBIO Firmware](https://github.com/Dawoox/PBIO_FIRMWARE)
+* [PBIO Monitoring](https://github.com/Dawoox/PBIO_Proton)
+
+## Tools
+
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
+
+## Tech stacks
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
