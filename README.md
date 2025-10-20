@@ -8,7 +8,7 @@
 
 
 ## About me
-I'v eat 19 birthday cake so far. I love synthwave, infosec, and engineering in general.  
+I'v eat 20 birthday cake so far. I love synthwave, infosec, and engineering in general.  
 I'm a CS student at Epitech Bordeaux, responsible for the innovative HUB of my campus.  
 In my free time I love to make hardware projects using my 3D Printers and some embeded controllers.
 
