@@ -12,7 +12,7 @@ I've worked at multiple companies doing very different things:
 you can find most of my unfinished (and never will) projects on my github account  
 my academics projects are also on the [dawpitech](https://github.com/dawpitech) organization  
 
-I'm currently building [OxideSlicer](https://github.com/OxideSlicer/slicer), an open-source rust-based SLA 3D printer slicer
+I'm currently building [OxideSlicer](https://github.com/OxideSlicer/slicer), an open-source rust-based slicer for SLA 3D printers
 
 ## Current tech stack
 
